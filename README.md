@@ -13,7 +13,7 @@ The linear electrode array is designed for sacral nerve stimulation or other per
 ![image](https://github.com/user-attachments/assets/d9e3606a-2b9f-4ec6-908c-c7ae1d92013d)
 
 ## EMG needle electrode
-The EMG lead contains two platinum-iridium needle electrodes. It is based on the Medtronic Model 4351 lead.
+The EMG lead contains a platinum-iridium needle electrode and suture needle. Two EMG electrodes can be attached using the interconnect for bipolar recording.
 
 ## ECG electrode
 The ECG sensing lead contains two electrodes that are 10mm wide, with 80mm spacing between them. It is based on the Boston Scientific 3400 S-ICD lead.
