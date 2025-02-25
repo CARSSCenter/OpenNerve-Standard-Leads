@@ -16,7 +16,7 @@ The linear electrode array is designed for sacral nerve stimulation or other per
 The EMG lead contains a platinum-iridium needle electrode and suture needle. Two EMG electrodes can be attached using the interconnect for bipolar recording.
 
 ## ECG electrode
-The ECG sensing lead contains two electrodes that are 10mm wide, with 80mm spacing between them. It is based on the Boston Scientific 3400 S-ICD lead.
+The ECG sensing lead contains two electrodes that are 3mm long, with 80mm spacing between them. It is based on the Boston Scientific 3400 S-ICD lead.
 
 ## AMS Motion Sensing Lead
 The Accelerometer-based Motion Sensing (AMS) lead contains an [MIS2DH](https://www.st.com/en/mems-and-sensors/mis2dh.html) accelerometer encapsulated in silicone, which can communicate with the OpenNerve IPG via I2C.
